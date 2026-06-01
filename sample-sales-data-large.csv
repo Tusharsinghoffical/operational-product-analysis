@@ -1,0 +1,117 @@
+date,product_category,quantity,unit_price,total_amount,customer_id,region,payment_method,sales_rep,discount_percentage,cost_price,profit
+2024-01-05,Electronics,45,299.99,13499.55,C1001,North,Credit Card,Alice Johnson,5,220.00,3599.55
+2024-01-08,Clothing,120,49.99,5998.80,C1002,South,Debit Card,Bob Smith,10,30.00,2398.80
+2024-01-12,Home & Garden,35,89.99,3149.65,C1003,East,Credit Card,Carol Davis,0,55.00,1225.65
+2024-01-15,Electronics,62,199.99,12399.38,C1004,West,PayPal,David Wilson,8,150.00,3099.38
+2024-01-18,Food & Beverage,200,12.99,2598.00,C1005,North,Cash,Emma Brown,0,8.00,998.00
+2024-01-22,Sports,78,79.99,6239.22,C1006,South,Credit Card,Frank Miller,12,50.00,2339.22
+2024-01-25,Electronics,28,499.99,13999.72,C1007,East,Debit Card,Alice Johnson,3,380.00,3359.72
+2024-01-28,Clothing,156,34.99,5458.44,C1008,West,Credit Card,Bob Smith,15,20.00,2338.44
+2024-02-02,Home & Garden,42,129.99,5459.58,C1009,North,PayPal,Carol Davis,7,85.00,1883.58
+2024-02-05,Electronics,91,149.99,13649.09,C1010,South,Credit Card,David Wilson,10,110.00,3599.09
+2024-02-08,Food & Beverage,180,15.99,2878.20,C1011,East,Cash,Emma Brown,0,10.00,1078.20
+2024-02-12,Sports,65,99.99,6499.35,C1012,West,Debit Card,Frank Miller,5,65.00,2249.35
+2024-02-15,Electronics,53,349.99,18549.47,C1013,North,Credit Card,Alice Johnson,6,270.00,4249.47
+2024-02-18,Clothing,189,29.99,5668.11,C1014,South,PayPal,Bob Smith,20,18.00,2248.11
+2024-02-22,Home & Garden,38,159.99,6079.62,C1015,East,Credit Card,Carol Davis,8,105.00,2099.62
+2024-02-25,Electronics,74,249.99,18499.26,C1016,West,Debit Card,David Wilson,4,190.00,4449.26
+2024-02-28,Food & Beverage,220,9.99,2197.80,C1017,North,Cash,Emma Brown,0,6.00,877.80
+2024-03-03,Sports,88,69.99,6159.12,C1018,South,Credit Card,Frank Miller,10,45.00,2199.12
+2024-03-06,Electronics,47,399.99,18799.53,C1019,East,PayPal,Alice Johnson,7,310.00,4249.53
+2024-03-09,Clothing,142,44.99,6388.58,C1020,West,Debit Card,Bob Smith,12,28.00,2408.58
+2024-03-12,Home & Garden,51,109.99,5609.49,C1021,North,Credit Card,Carol Davis,5,70.00,2039.49
+2024-03-15,Electronics,83,179.99,14939.17,C1022,South,Cash,David Wilson,9,135.00,3739.17
+2024-03-18,Food & Beverage,195,13.99,2728.05,C1023,East,Credit Card,Emma Brown,0,9.00,968.05
+2024-03-22,Sports,72,89.99,6479.28,C1024,West,PayPal,Frank Miller,8,58.00,2279.28
+2024-03-25,Electronics,66,279.99,18479.34,C1025,North,Debit Card,Alice Johnson,6,215.00,4279.34
+2024-03-28,Clothing,168,39.99,6718.32,C1026,South,Credit Card,Bob Smith,15,24.00,2678.32
+2024-04-01,Home & Garden,44,139.99,6159.56,C1027,East,Cash,Carol Davis,10,92.00,2099.56
+2024-04-04,Electronics,95,219.99,20899.05,C1028,West,Credit Card,David Wilson,5,168.00,4924.05
+2024-04-07,Food & Beverage,210,11.99,2517.90,C1029,North,Debit Card,Emma Brown,0,7.50,942.90
+2024-04-10,Sports,81,74.99,6074.19,C1030,South,PayPal,Frank Miller,7,48.00,2174.19
+2024-04-13,Electronics,58,329.99,19139.42,C1031,East,Credit Card,Alice Johnson,8,255.00,4339.42
+2024-04-16,Clothing,175,42.99,7523.25,C1032,West,Cash,Bob Smith,18,26.00,2948.25
+2024-04-19,Home & Garden,49,119.99,5879.51,C1033,North,Credit Card,Carol Davis,6,78.00,2049.51
+2024-04-22,Electronics,87,189.99,16529.13,C1034,South,Debit Card,David Wilson,11,145.00,3929.13
+2024-04-25,Food & Beverage,230,10.99,2527.70,C1035,East,PayPal,Emma Brown,0,7.00,917.70
+2024-04-28,Sports,69,94.99,6554.31,C1036,West,Credit Card,Frank Miller,9,62.00,2264.31
+2024-05-01,Electronics,71,289.99,20589.29,C1037,North,Cash,Alice Johnson,4,225.00,4589.29
+2024-05-04,Clothing,198,37.99,7522.02,C1038,South,Credit Card,Bob Smith,14,23.00,2938.02
+2024-05-07,Home & Garden,56,99.99,5599.44,C1039,East,Debit Card,Carol Davis,8,65.00,1949.44
+2024-05-10,Electronics,102,159.99,16318.98,C1040,West,PayPal,David Wilson,12,122.00,3838.98
+2024-05-13,Food & Beverage,245,8.99,2202.55,C1041,North,Cash,Emma Brown,0,5.50,852.55
+2024-05-16,Sports,93,64.99,6044.07,C1042,South,Credit Card,Frank Miller,6,42.00,2144.07
+2024-05-19,Electronics,49,419.99,20579.51,C1043,East,Debit Card,Alice Johnson,5,325.00,4679.51
+2024-05-22,Clothing,161,46.99,7565.39,C1044,West,Credit Card,Bob Smith,16,29.00,2905.39
+2024-05-25,Home & Garden,62,149.99,9299.38,C1045,North,PayPal,Carol Davis,9,98.00,3199.38
+2024-05-28,Electronics,79,229.99,18169.21,C1046,South,Cash,David Wilson,7,175.00,4294.21
+2024-06-01,Food & Beverage,215,14.99,3222.85,C1047,East,Credit Card,Emma Brown,0,9.50,1172.85
+2024-06-04,Sports,85,84.99,7224.15,C1048,West,Debit Card,Frank Miller,10,55.00,2524.15
+2024-06-07,Electronics,94,259.99,24439.06,C1049,North,Credit Card,Alice Johnson,6,200.00,5614.06
+2024-06-10,Clothing,183,41.99,7684.17,C1050,South,PayPal,Bob Smith,13,26.00,2924.17
+2024-06-13,Home & Garden,47,124.99,5874.53,C1051,East,Cash,Carol Davis,7,82.00,2029.53
+2024-06-16,Electronics,68,309.99,21079.32,C1052,West,Credit Card,David Wilson,8,240.00,4759.32
+2024-06-19,Food & Beverage,260,7.99,2077.40,C1053,North,Debit Card,Emma Brown,0,5.00,777.40
+2024-06-22,Sports,76,79.99,6079.24,C1054,South,Credit Card,Frank Miller,11,52.00,2099.24
+2024-06-25,Electronics,88,199.99,17599.12,C1055,East,PayPal,Alice Johnson,9,152.00,4219.12
+2024-06-28,Clothing,147,48.99,7201.53,C1056,West,Cash,Bob Smith,17,30.00,2741.53
+2024-07-01,Home & Garden,53,134.99,7154.47,C1057,North,Credit Card,Carol Davis,5,88.00,2504.47
+2024-07-04,Electronics,115,169.99,19548.85,C1058,South,Debit Card,David Wilson,10,130.00,4573.85
+2024-07-07,Food & Beverage,225,12.99,2922.75,C1059,East,Credit Card,Emma Brown,0,8.00,1122.75
+2024-07-10,Sports,98,59.99,5879.02,C1060,West,PayPal,Frank Miller,8,38.00,2179.02
+2024-07-13,Electronics,61,359.99,21959.39,C1061,North,Cash,Alice Johnson,4,280.00,4899.39
+2024-07-16,Clothing,192,35.99,6910.08,C1062,South,Credit Card,Bob Smith,19,22.00,2662.08
+2024-07-19,Home & Garden,69,109.99,7589.31,C1063,East,Debit Card,Carol Davis,6,72.00,2639.31
+2024-07-22,Electronics,82,239.99,19679.18,C1064,West,Credit Card,David Wilson,7,183.00,4669.18
+2024-07-25,Food & Beverage,240,11.99,2877.60,C1065,North,PayPal,Emma Brown,0,7.50,1077.60
+2024-07-28,Sports,91,74.99,6824.09,C1066,South,Cash,Frank Miller,12,48.00,2474.09
+2024-08-01,Electronics,73,299.99,21899.27,C1067,East,Credit Card,Alice Johnson,5,230.00,5099.27
+2024-08-04,Clothing,169,43.99,7434.31,C1068,West,Debit Card,Bob Smith,15,27.00,2886.31
+2024-08-07,Home & Garden,58,144.99,8409.42,C1069,North,Credit Card,Carol Davis,8,95.00,2889.42
+2024-08-10,Electronics,106,179.99,19078.94,C1070,South,PayPal,David Wilson,11,138.00,4426.94
+2024-08-13,Food & Beverage,255,9.99,2547.45,C1071,East,Cash,Emma Brown,0,6.00,1017.45
+2024-08-16,Sports,84,89.99,7559.16,C1072,West,Credit Card,Frank Miller,9,58.00,2699.16
+2024-08-19,Electronics,56,389.99,21839.44,C1073,North,Debit Card,Alice Johnson,6,302.00,4899.44
+2024-08-22,Clothing,205,38.99,7992.95,C1074,South,Credit Card,Bob Smith,20,24.00,3067.95
+2024-08-25,Home & Garden,64,119.99,7679.36,C1075,East,PayPal,Carol Davis,7,78.00,2679.36
+2024-08-28,Electronics,91,209.99,19109.09,C1076,West,Cash,David Wilson,8,160.00,4529.09
+2024-09-01,Food & Beverage,270,8.99,2427.30,C1077,North,Credit Card,Emma Brown,0,5.50,942.30
+2024-09-04,Sports,79,69.99,5529.21,C1078,South,Debit Card,Frank Miller,10,45.00,1949.21
+2024-09-07,Electronics,67,319.99,21439.33,C1079,East,Credit Card,Alice Johnson,5,248.00,4789.33
+2024-09-10,Clothing,178,45.99,8186.22,C1080,West,PayPal,Bob Smith,16,28.00,3170.22
+2024-09-13,Home & Garden,51,154.99,7904.49,C1081,North,Cash,Carol Davis,9,102.00,2704.49
+2024-09-16,Electronics,98,189.99,18619.02,C1082,South,Credit Card,David Wilson,10,145.00,4417.02
+2024-09-19,Food & Beverage,235,13.99,3287.65,C1083,East,Debit Card,Emma Brown,0,9.00,1177.65
+2024-09-22,Sports,87,84.99,7394.13,C1084,West,Credit Card,Frank Miller,11,55.00,2624.13
+2024-09-25,Electronics,74,269.99,19979.26,C1085,North,PayPal,Alice Johnson,7,208.00,4583.26
+2024-09-28,Clothing,156,40.99,6394.44,C1086,South,Cash,Bob Smith,14,25.00,2478.44
+2024-10-01,Home & Garden,72,129.99,9359.28,C1087,East,Credit Card,Carol Davis,6,85.00,3239.28
+2024-10-04,Electronics,112,199.99,22398.88,C1088,West,Debit Card,David Wilson,12,152.00,5326.88
+2024-10-07,Food & Beverage,280,10.99,3077.20,C1089,North,Credit Card,Emma Brown,0,7.00,1117.20
+2024-10-10,Sports,95,64.99,6174.05,C1090,South,PayPal,Frank Miller,8,42.00,2184.05
+2024-10-13,Electronics,63,379.99,23939.37,C1091,East,Cash,Alice Johnson,4,295.00,5379.37
+2024-10-16,Clothing,213,36.99,7878.87,C1092,West,Credit Card,Bob Smith,18,23.00,2960.87
+2024-10-19,Home & Garden,59,139.99,8259.41,C1093,North,Debit Card,Carol Davis,7,92.00,2819.41
+2024-10-22,Electronics,86,249.99,21499.14,C1094,South,Credit Card,David Wilson,9,190.00,5099.14
+2024-10-25,Food & Beverage,250,11.99,2997.50,C1095,East,PayPal,Emma Brown,0,7.50,1122.50
+2024-10-28,Sports,102,79.99,8158.98,C1096,West,Cash,Frank Miller,13,52.00,2858.98
+2024-11-01,Electronics,78,289.99,22619.22,C1097,North,Credit Card,Alice Johnson,6,225.00,5039.22
+2024-11-04,Clothing,187,42.99,8039.13,C1098,South,Debit Card,Bob Smith,15,26.00,3131.13
+2024-11-07,Home & Garden,66,149.99,9899.34,C1099,East,Credit Card,Carol Davis,8,98.00,3419.34
+2024-11-10,Electronics,119,169.99,20228.81,C1100,West,PayPal,David Wilson,11,130.00,4708.81
+2024-11-13,Food & Beverage,290,9.99,2897.10,C1101,North,Cash,Emma Brown,0,6.00,1157.10
+2024-11-16,Sports,88,74.99,6599.12,C1102,South,Credit Card,Frank Miller,10,48.00,2383.12
+2024-11-19,Electronics,71,339.99,24139.29,C1103,East,Debit Card,Alice Johnson,5,263.00,5459.29
+2024-11-22,Clothing,195,47.99,9358.05,C1104,West,Credit Card,Bob Smith,17,30.00,3478.05
+2024-11-25,Home & Garden,54,124.99,6749.46,C1105,North,PayPal,Carol Davis,9,82.00,2309.46
+2024-11-28,Electronics,93,219.99,20459.07,C1106,South,Cash,David Wilson,8,168.00,4823.07
+2024-12-01,Food & Beverage,265,12.99,3442.35,C1107,East,Credit Card,Emma Brown,0,8.00,1317.35
+2024-12-04,Sports,96,89.99,8639.04,C1108,West,Debit Card,Frank Miller,12,58.00,3047.04
+2024-12-07,Electronics,81,309.99,25109.19,C1109,North,Credit Card,Alice Johnson,7,240.00,5639.19
+2024-12-10,Clothing,172,39.99,6878.28,C1110,South,PayPal,Bob Smith,16,24.00,2710.28
+2024-12-13,Home & Garden,68,159.99,10879.32,C1111,East,Cash,Carol Davis,10,105.00,3719.32
+2024-12-16,Electronics,108,189.99,20518.92,C1112,West,Credit Card,David Wilson,9,145.00,4842.92
+2024-12-19,Food & Beverage,300,8.99,2697.00,C1113,North,Debit Card,Emma Brown,0,5.50,1047.00
+2024-12-22,Sports,104,69.99,7278.96,C1114,South,Credit Card,Frank Miller,11,45.00,2574.96
+2024-12-25,Electronics,69,359.99,24839.31,C1115,East,PayPal,Alice Johnson,6,280.00,5519.31
+2024-12-28,Clothing,220,44.99,9897.80,C1116,West,Cash,Bob Smith,19,28.00,3717.80

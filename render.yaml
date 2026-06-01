@@ -1,0 +1,43 @@
+services:
+  # Backend Service (FastAPI)
+  - type: web
+    name: opsense-backend
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: cd backend && uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: CORS_ORIGINS
+        sync: false
+      - key: JWT_SECRET_KEY
+        generateValue: true
+
+  # Frontend Service (Next.js)
+  - type: web
+    name: opsense-frontend
+    env: node
+    buildCommand: cd frontend && npm install && npm run build
+    startCommand: cd frontend && npm start
+    envVars:
+      - key: NODE_VERSION
+        value: 20.x
+      - key: NEXT_PUBLIC_API_URL
+        fromService:
+          type: web
+          name: opsense-backend
+          envVarKey: RENDER_EXTERNAL_URL
+      - key: NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY
+        sync: false
+      - key: CLERK_SECRET_KEY
+        sync: false
+      - key: NEXT_PUBLIC_CLERK_SIGN_IN_URL
+        value: /sign-in
+      - key: NEXT_PUBLIC_CLERK_SIGN_UP_URL
+        value: /sign-up
+      - key: NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL
+        value: /
+      - key: NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL
+        value: /
