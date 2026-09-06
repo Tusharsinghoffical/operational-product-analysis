@@ -1,8 +1,6 @@
 <div align="center">
 
-<!-- HERO PROJECT BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=14,20,24,28&text=OpSense&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Operational%20Intelligence%20%26%20Retail%20Health%20Platform&descFontSize=20&descAlignY=58"/>
-
+    
 <p align="center">
   <b>Real-time business health monitoring, ML anomaly detection, and Gemini AI-powered operational insights.</b>
 </p>
